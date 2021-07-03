@@ -1,0 +1,6 @@
+{
+  "authSelections": "identityPoolAndUserPool",
+  "resourceName": "amplifytestb317bd48",
+  "serviceType": "imported",
+  "region": "us-east-1"
+}
